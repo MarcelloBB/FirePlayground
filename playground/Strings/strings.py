@@ -7,6 +7,5 @@ class Str:
     def print(self, size) -> str:
         return self.char * size
 
-
 if __name__ == "__main__":
     fire.Fire(Str)
