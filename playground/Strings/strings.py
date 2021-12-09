@@ -5,7 +5,7 @@ class Str:
         self.char = char
 
     def print(self, size) -> str:
-            return self.char * size
+        return self.char * size
 
 
 if __name__ == "__main__":
