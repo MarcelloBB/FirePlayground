@@ -2,7 +2,7 @@
 Strings returns your argument.
 
 # About
-This calculator was made using Google Fire, a easy to use CLI tool.
+This project was made using Google Fire, a easy to use CLI tool.
 
 # Using
 To run _Strings_:
@@ -29,3 +29,8 @@ python .\strings.py print --char=* --size=10
 
 ```
 
+# Author
+Marcello B., 2021
+
+# License
+This is under the terms of the MIT License
