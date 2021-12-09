@@ -12,6 +12,20 @@ To run _Strings_:
 # ------------
 
 # You will need to pass the following arguments:
-#   * [FUNCTION] = [print, len, count]
+#   * [FUNCTION] = [print]
+#   * [char VALUE] = Char
+#   * [size VALUE] = Size of the final string
+
+python .\strings.py [FUNCTION] --char=[CHAR] --size=[SIZE]
+
+
+
+
+
+# EXAMPLE
+# -------
+
+python .\strings.py print --char=* --size=10
+
 ```
 
